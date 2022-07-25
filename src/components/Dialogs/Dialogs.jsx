@@ -14,7 +14,7 @@ const DialogItem = (props) => {
     return <div className={s.dialog}>{props.message}
     </div>
 
-
+     // blablabla this test
 
     }
 
