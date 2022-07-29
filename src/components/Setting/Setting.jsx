@@ -3,7 +3,7 @@ import s from './Setting.module.css'
 
 const Setting = (props) => {
     return (
-     <div>
+     <div className={s.settingCss}>
          Setting
      </div>
 
